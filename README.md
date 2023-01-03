@@ -110,7 +110,7 @@ Now that you have created an explorable revisit your outline and develop it furt
 
   
 
-- [ ] Upload your wireframe to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here:
+- [x] Upload your wireframe to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here: https://drive.google.com/drive/folders/1M1Mqnx0sqoWmGbL7t5oha-9fGSGkz-J1?usp=share_link
 
   
   
