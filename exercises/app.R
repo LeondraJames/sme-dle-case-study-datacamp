@@ -122,7 +122,7 @@ ui <- fluidPage(
       h4("10) What can we NOT tell from these plots?"),
       h4("11) Give the graphs a title"),
       h4("12) What other plot elements might we utilize to better tell our story?"),
-      h4("13) Toggle the Transformation box for the boxplot to 'log2'. Observing the plot update, why might data transformations be useful for data storytelling?")
+      h4("13) Toggle the Transformation box for the boxplot to 'log2'. Observing the plot update, why might data transformations be useful for data storytelling?"), 
       h4("14) Which of the following is a potential narrative clue based on the provided information?")  
       ),
     
