@@ -95,7 +95,7 @@ Screencasts in Data Literacy and Essential (DLE) courses demonstrate to learners
 
   
 
-- [ ] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here:
+- [x] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here: https://drive.google.com/file/d/18-zxJFMiD2fKI4hnUW4taTuS1R-Xa8j1/view?usp=sharing
 
   
   
